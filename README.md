@@ -3,4 +3,4 @@ An algorithm to estimate the motif (or graphlet) counts by "lifting" a graph nod
 
 The repository includes [the paper](graphlet_lift.pdf) describing the algorithm with theoretical analysis and experiments, 
 includes [supplementary material](graphlet_lift_supp.pdf) for theoretical bound of the variation of the estimate,
-and includes the [Python code](Lift.ipynb) used to for experiments.
+and includes the [Python code](Lift.ipynb) used for experiments.
