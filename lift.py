@@ -77,6 +77,8 @@ def graphlet_names(k):
     """
     if k > 5:
         return list(range(k))
+    if k == 2:
+        return ['edge']
     if k == 3:
         return ['wedge', 'triangle']
     if k == 4:
